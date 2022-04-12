@@ -6,12 +6,11 @@ create views and partials. The views are the weather, about, help and the 404 sc
 populated with data from a JSON object and partials which were used to load the same header and footer 
 for all screens. The path module was used internally, so that it would be easier to tell the
 handle bars module and express module, where to look for what pages to load. The request module was used 
-to handle the http request, this is how I interacted with the API's.
+to handle the HTTP request, this is how I interacted with the API's.
 
-Two API(application programming interface) where used for the weather application, the mapbox geocoding api
-which takes in an address and returns the latitude, longitude and location and the weatherstack api which takes in
+Two API(application programming interface) were used for the weather application, the Mapbox geocoding API which
+takes in an address and returns the latitude, longitude and location and the weather stack API which takes in
 the latitude and longitude and returns the weather description and temperature of the location.
-
 
 The weather screen:
 ![image](https://user-images.githubusercontent.com/102123401/162993642-72112629-a564-4af8-ac60-d03de38ed6a8.png)
