@@ -20,3 +20,7 @@ The about screen:
 
 The help screen:
 ![image](https://user-images.githubusercontent.com/102123401/163011614-b8fdebd4-6573-4b15-8f5b-3500635ef258.png)
+
+The 404 screen:
+![image](https://user-images.githubusercontent.com/102123401/163012479-dc56f50d-142e-4075-a916-20cec59c52bc.png)
+
