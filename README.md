@@ -1,4 +1,5 @@
 # Web Weather App with Web Server
+(Note: nodemon@1.2.0 was installed globally, you will need to install it globally if you want to recreate the project).
 Weather web application that takes in a location or a zip code and returns
 the locations weather forecast and temperature. The main focus of this project was the 
 backend, which was created using express(NodeJS module). The handlebars module was used to 
