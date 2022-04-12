@@ -1,14 +1,14 @@
 # WebServer
 Weather web application that takes in a location or a zip code and returns
-the location and weather forecast for that location. The main focus of this project was the 
-backend, which was created using express(NodeJS module). The handle bars module was used to 
+the locations weather forecast and temperature. The main focus of this project was the 
+backend, which was created using express(NodeJS module). The handlebars module was used to 
 create views and partials. The views are the weather, about, help and the 404 screens which are dynamically
 populated with data from a JSON object and partials which were used to load the same header and footer 
 for all screens. The path module was used internally, so that it would be easier to tell the
-handle bars module and express module, where to look for what pages to load. The request module was used 
+handlebars module and express module, where to look for what pages to load. The request module was used 
 to handle the HTTP request, this is how I interacted with the API's.
 
-Two API(application programming interface) were used for the weather application, the Mapbox geocoding API which
+Two API's(application programming interface) were used for the weather application, the Mapbox geocoding API which
 takes in an address and returns the latitude, longitude and location and the weather stack API which takes in
 the latitude and longitude and returns the weather description and temperature of the location.
 
