@@ -1,4 +1,4 @@
-# Web Weather
+# Weather App
 (Note: nodemon@1.2.0 was installed globally, you will need to install it globally if you want to recreate the project).
 
 Weather web application that takes in a location or a zip code and returns
